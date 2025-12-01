@@ -1,0 +1,1 @@
+This repository contains codes used for the paper, **A Weakly Supervised Foreground and Background Segmentation Framework for Aerial Flood Image Analysis**. Please cite this paper if you are using these codes. 
